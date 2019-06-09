@@ -1,3 +1,5 @@
+Has only been tested in Chrome. Might need a socket polyfill for other browsers. More polyfills may be required to run in IE.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
